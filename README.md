@@ -9,8 +9,8 @@ The game features two players (as paddles) and a ball. Player will get points wh
 
 ## Controls
 
-Player One : Use W,S key to move.
-Player Two : Use ↑,↓ key to move.
+- Player One : Use W,S key to move.
+- Player Two : Use ↑,↓ key to move.
 
 ## To-do
 
